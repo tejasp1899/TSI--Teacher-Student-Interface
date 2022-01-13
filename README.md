@@ -17,6 +17,7 @@ A. Student To Teacher File Sharing
 1) Type 'send' and hit enter.
 2) Specify the Name of the File to be sent (Must be in the same directory as the executables).
 3) The file will be sent to the Admin (Teacher).
+
 B. Teacher To Student File Sharing
 
 1) Type 'send' and hit enter.
